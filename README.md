@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeNaTo0oR
 - 👀 I’m interested in Android App Developing
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on any small Android App by Kotlin 
+- 💞️ I’m looking to collaborate on any small Android App using Kotlin 
 - 📫 How to reach me: i will find the proper way soon! ;)
 
 <!---
